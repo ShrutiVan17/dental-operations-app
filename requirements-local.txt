@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+pycaret
+prophet
+scikit-learn
+shap
+python-dotenv
+requests
+beautifulsoup4
+tldextract
+joblib
+neuralprophet

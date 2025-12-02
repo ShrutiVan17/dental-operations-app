@@ -1,0 +1,8 @@
+scenario,trigger,tactic,playbook,cost_level,channel_tags
+no_show,score>=0.7,"2-step reminder: SMS 24h + WhatsApp 2h","Upload tomorrow's high-risk list; auto-send SMS with confirm/cancel link; WhatsApp follow-up to unconfirmed.",low,"sms,whatsapp,reminders"
+no_show,0.4<=score<0.7,"Incentivized confirmation","Include $10 gift card for on-time arrival in reminder to medium-risk.",medium,"sms,email,incentive"
+collections,pred_shortfall>=500,"Recall/reactivation email","Filter lapsed patients (≥12 months); send 3-part series with online booking CTA.",low,"email,reactivation"
+collections,pred_shortfall>=1500,"Local offer ad pilot","Run 2-week geo ad with $79 exam/x-ray offer; budget cap $20/day.",medium,"paid,local-ads"
+collections,pred_shortfall>=2500,"Membership plan push","Promote in-house plan to uninsured leads; front-desk script + landing page.",medium,"email,landing,frontdesk"
+demand,forecast_gap>=3,"Hygiene blitz week","Open two evening blocks; SMS to nearby zip codes for ‘extended hours’.",low,"sms,capacity,events"
+demand,forecast_gap>=6,"Community partner day","Partner with gym/daycare; co-promote check-up day; booth & QR bookings.",high,"offline,partnerships,events"

@@ -1,0 +1,15 @@
+id,date,time,type,patient,email,reason,is_hygiene,is_restorative,status,notes,label
+1,2025-11-27,10:00,Hygiene,shruti,shrutivanparia171@gmail.com,Cleaning/Prophy,1,0,cancelled,,#1 • shruti • 2025-11-27 10:00 • Hygiene • cancelled
+2,2025-11-20,00:15,Restorative,kk,shrutivanparia171@gmail.com,Restorative care,0,1,cancelled,,#2 • kk • 2025-11-20 00:15 • Restorative • cancelled
+3,2025-11-30,10:30,Restorative,kk,shrutivanparia172@gmail.com,Restorative care,0,1,cancelled,,#3 • kk • 2025-11-30 10:30 • Restorative • cancelled
+4,2025-11-25,13:15,Hygiene,shru,shrutivanparia171@gmail.com,Cleaning/Prophy,1,0,scheduled,,#4 • shru • 2025-11-25 13:15 • Hygiene • scheduled
+5,2025-11-28,10:15,Restorative,shruti,shrutivanparia171@gmail.com,Restorative care,0,1,rescheduled,,#5 • shruti • 2025-11-28 10:15 • Restorative • rescheduled
+6,2025-11-21,16:45,Restorative,shruti,shrutivanparia171@gmail.com,Restorative care,0,1,scheduled,,#6 • shruti • 2025-11-21 16:45 • Restorative • scheduled
+7,2025-11-30,10:30,Restorative,kk,shrutivanparia171@gmail.com,Restorative care,0,1,rescheduled,,#7 • kk • 2025-11-14 15:30 • Restorative • scheduled
+8,2025-11-13,14:45,Restorative,ij,shrutivanparia171@gmail.com,Restorative care,0,1,scheduled,,#8 • ij • 2025-11-13 14:45 • Restorative • scheduled
+9,2025-11-28,14:30,Hygiene,shruti,shrutivanparia171@gmail.com,Cleaning/Prophy,1,0,scheduled,,#9 • shruti • 2025-11-28 14:30 • Hygiene • scheduled
+10,2025-11-27,15:00,Hygiene,shruti vanparia,shrutivanparia171@gmail.com,Cleaning/Prophy,1,0,scheduled,,#10 • shruti vanparia • 2025-11-27 15:00 • Hygiene • scheduled
+11,2025-11-27,15:30,Restorative,shruzz patel,shrutivanparia171@gmail.com,Restorative care,0,1,scheduled,,#11 • shruzz patel • 2025-11-27 15:30 • Restorative • scheduled
+12,2025-11-21,15:30,Restorative,shruzz patel,shrutivanparia171@gmail.com,Restorative care,0,1,scheduled,,#12 • shruzz patel • 2025-11-21 15:30 • Restorative • scheduled
+13,2025-11-29,16:00,Restorative,kk,shrutivanparia171@gmail.com,Restorative care,0,1,scheduled,,#13 • kk • 2025-11-29 16:00 • Restorative • scheduled
+14,2025-12-03,08:00,Hygiene,shrutizz,shrutivanparia171@gmail.com,Cleaning/Prophy,1,0,scheduled,,
